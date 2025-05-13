@@ -9,7 +9,7 @@
 - JavaScript
 
 ## Getting Started
-To play *Pocket Pet* and start taking care of your virtual pet, you can play the game [here](https://jtnguyen45.github.io/pocket-pet/).
+To play *Pocket Pet* and start taking care of your virtual pet, you can play the game [here](https://a3k3sh.github.io/Virtual-Pet-Simulator/).
 
 Once the page is loaded, the game has started! The goal of the game is to keep your pet happy and keep all of their stats above **zero**. You can interact with your pet with the buttons at the bottom of the screen to do the following:
 
