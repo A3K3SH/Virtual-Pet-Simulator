@@ -1,7 +1,7 @@
 # Pocket Pet
 *Pocket Pet* is a virtual pet simulator inspired by the classic digital pet, Tamagotchi. Take care of your adorable virtual companion by managing its stats and ensuring its well-being. The game is built using vanilla HTML, CSS, and JavaScript.
 
-![](https://github.com/jtnguyen45/pocket-pet/blob/main/images/project-demo/projectDemo.gif)
+![](https://github.com/aekesh/pocket-pet/blob/main/images/project-demo/projectDemo.gif)
 
 ## Technology Used
 - HTML
@@ -13,7 +13,7 @@ To play *Pocket Pet* and start taking care of your virtual pet, you can play the
 
 Once the page is loaded, the game has started! The goal of the game is to keep your pet happy and keep all of their stats above **zero**. You can interact with your pet with the buttons at the bottom of the screen to do the following:
 
-![](https://github.com/jtnguyen45/pocket-pet/blob/main/images/project-demo/instructions.png)
+![](https://github.com/aekesh/pocket-pet/blob/main/images/project-demo/instructions.png)
 
 - Pet them to increase happiness
 - Feed them so they won't starve
