@@ -1,7 +1,7 @@
 # Pocket Pet
 *Pocket Pet* is a virtual pet simulator inspired by the classic digital pet, Tamagotchi. Take care of your adorable virtual companion by managing its stats and ensuring its well-being. The game is built using vanilla HTML, CSS, and JavaScript.
 
-![](https://github.com/aekesh/pocket-pet/blob/main/images/project-demo/projectDemo.gif)
+![](https://github.com/A3K3SH/Virtual-Pet-Simulator/blob/main/images/project-demo/projectDemo.gif)
 
 ## Technology Used
 - HTML
